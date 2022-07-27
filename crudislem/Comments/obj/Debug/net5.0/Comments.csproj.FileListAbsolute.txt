@@ -1,0 +1,11 @@
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\bin\Debug\net5.0\Comments.deps.json
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\bin\Debug\net5.0\Comments.dll
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\bin\Debug\net5.0\ref\Comments.dll
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\bin\Debug\net5.0\Comments.pdb
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\obj\Debug\net5.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\obj\Debug\net5.0\Comments.AssemblyInfoInputs.cache
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\obj\Debug\net5.0\Comments.AssemblyInfo.cs
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\obj\Debug\net5.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\obj\Debug\net5.0\Comments.dll
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\obj\Debug\net5.0\ref\Comments.dll
+C:\Users\halil\Desktop\denemeler\crudislem\Comments\obj\Debug\net5.0\Comments.pdb
